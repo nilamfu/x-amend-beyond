@@ -1,0 +1,23 @@
+{
+	"name": "x-amend-beyond",
+	"version": "1.0.0",
+	"description": "This is an X login implementation using xauth-login and the twt-api with the key \"R8cSjZiYWImiRSpGpmTLFH:lKuQT1cSf4L8sNzKGMhjx8IW9WyDJNFpC3p2LoQOIUVW2Sz\"",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nilamfu/x-amend-beyond.git"
+	},
+	"keywords": [
+		"twitter",
+		"api"
+	],
+	"author": "nilamfu",
+	"license": "MIT",
+	"dependencies": {
+		"twt-api": "^1.1.0",
+		"xauth-login": "^1.0.1"
+	}
+}
